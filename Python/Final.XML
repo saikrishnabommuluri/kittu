@@ -1,0 +1,78 @@
+<item>
+  <amount>99.2</amount>
+  <amounts>nan</amounts>
+  <cents>nan</cents>
+  <date>nan</date>
+  <date_readable>nan</date_readable>
+  <euro>nan</euro>
+  <from>198</from>
+  <timestamp>Oct 1 2019</timestamp>
+  <to>182</to>
+  <transaction>nan</transaction>
+  <type>remove</type>
+</item>
+<item>
+  <amount>2000.1</amount>
+  <amounts>nan</amounts>
+  <cents>nan</cents>
+  <date>nan</date>
+  <date_readable>nan</date_readable>
+  <euro>nan</euro>
+  <from>188</from>
+  <timestamp>Oct 2 2019</timestamp>
+  <to>198</to>
+  <transaction>nan</transaction>
+  <type>add</type>
+</item>
+<item>
+  <amount>nan</amount>
+  <amounts>99.4</amounts>
+  <cents>nan</cents>
+  <date>03-10-2019</date>
+  <date_readable>nan</date_readable>
+  <euro>nan</euro>
+  <from>198</from>
+  <timestamp>nan</timestamp>
+  <to>182</to>
+  <transaction>remove</transaction>
+  <type>nan</type>
+</item>
+<item>
+  <amount>nan</amount>
+  <amounts>2123.5</amounts>
+  <cents>nan</cents>
+  <date>04-10-2019</date>
+  <date_readable>nan</date_readable>
+  <euro>nan</euro>
+  <from>188</from>
+  <timestamp>nan</timestamp>
+  <to>198</to>
+  <transaction>add</transaction>
+  <type>nan</type>
+</item>
+<item>
+  <amount>nan</amount>
+  <amounts>nan</amounts>
+  <cents>7.0</cents>
+  <date>nan</date>
+  <date_readable>5 Oct 2019</date_readable>
+  <euro>5.0</euro>
+  <from>198</from>
+  <timestamp>nan</timestamp>
+  <to>182</to>
+  <transaction>nan</transaction>
+  <type>remove</type>
+</item>
+<item>
+  <amount>nan</amount>
+  <amounts>nan</amounts>
+  <cents>8.0</cents>
+  <date>nan</date>
+  <date_readable>6 Oct 2019</date_readable>
+  <euro>1060.0</euro>
+  <from>188</from>
+  <timestamp>nan</timestamp>
+  <to>198</to>
+  <transaction>nan</transaction>
+  <type>add</type>
+</item>
